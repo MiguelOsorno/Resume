@@ -9,12 +9,18 @@
 .section-bg-color2{
     background-color: 	#D3D3D3;
 }
+.section-bg-color-purple{
+    background-color:#572364;
+}
 .line-color{
     color: #325c91;
     border: solid;
 }
 .icons{
     font-size: 50px;
+}
+.ul-align{
+    text-align: center;
 }
 .lista{
     list-style: none;
@@ -26,4 +32,7 @@
 }
 .link--color-purple{
     color: #572364;
+}
+.link--color-blue{
+    color: #325c91 !important;
 }
