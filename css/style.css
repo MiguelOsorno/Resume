@@ -1,4 +1,15 @@
 .image{
     width: 80%;
     height: auto;
+    padding-bottom: 20px;
+}
+.section-bg-color{
+    background-color: #C0C0C0;
+}
+.section-bg-color2{
+    background-color: 	#D3D3D3;
+}
+.line-color{
+    color: #325c91;
+    border: solid;
 }
