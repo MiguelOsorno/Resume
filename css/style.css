@@ -13,3 +13,17 @@
     color: #325c91;
     border: solid;
 }
+.icons{
+    font-size: 50px;
+}
+.lista{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.link--color-black{
+    color: black;
+}
+.link--color-purple{
+    color: #572364;
+}
