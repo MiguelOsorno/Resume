@@ -82,4 +82,7 @@ p, li{
     .text--align-media{
         text-align: center;
     }
+    .section-bg-color-gray-light-media{
+        background-color: 	#D3D3D3;
+    }
 }
