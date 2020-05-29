@@ -36,3 +36,9 @@
 .link--color-blue{
     color: #325c91 !important;
 }
+.text--align{
+    text-align: center;
+}
+.text--color-blue{
+    color: #325c91;
+}
