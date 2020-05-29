@@ -3,6 +3,16 @@
     height: auto;
     margin-bottom: 20px;
 }
+.logos{
+    max-height: 80px;
+    width: auto;
+}
+.logos--height-70{
+    max-height: 70px;
+}
+.rows--align-center{
+    align-items: center;
+}
 .section-bg-color-gray{
     background-color: #C0C0C0;
 }
@@ -84,5 +94,11 @@ p, li{
     }
     .section-bg-color-gray-light-media{
         background-color: 	#D3D3D3;
+    }
+    .logos--height-200{
+        max-height: 200px;
+    }
+    .logos--height-175{
+        max-height: 175px;
     }
 }
