@@ -1,3 +1,7 @@
+@keyframes imagesAnimation{
+    0%{transform: rotateY(0deg);}
+    100%{transform: rotateY(360deg);}
+}
 .image{
     width: 80%;
     height: auto;
@@ -6,6 +10,10 @@
 .logos{
     max-height: 80px;
     width: auto;
+}
+.logos:hover{
+    animation-name: imagesAnimation;
+    animation-duration: 2s;
 }
 .logos--height-70{
     max-height: 70px;
